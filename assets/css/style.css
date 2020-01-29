@@ -1,0 +1,42 @@
+body {
+    font-family: 'Fondamento', Georgia, 'Times New Roman', serif, cursive;
+    align-content: left;      
+    color:red;      
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align:left;
+    vertical-align:left;
+    line-height: 36px;  
+}
+
+  
+
+  
+
+  .wrapper {
+    padding-left: 330px;
+  }
+
+  #won {
+    color: green;
+    font-size: 1.5em;
+  }
+
+  #lost {
+    color:black;
+    font-size: 1.5em;
+  }
+
+  #attempts {
+    color: blue;
+    font-size: 1.2em;
+  }
+
+  #playerGuess {
+    color: purple;
+    font-size: 1.5em;
+  }
+
+  h1 {
+    font-size: 500px;
+  }
