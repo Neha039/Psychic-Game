@@ -9,14 +9,10 @@ body {
     line-height: 36px;  
 }
 
-  
-
-  
-
-  .wrapper {
+.wrapper {
     padding-left: 330px;
   }
-
+  
   #won {
     color: green;
     font-size: 1.5em;
